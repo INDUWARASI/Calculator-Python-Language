@@ -44,9 +44,9 @@ Ideal for students, developers, and Hacktoberfest contributors looking for a ver
 
 🧾 History Features
 
-📅 Automatic Tracking — Every calculation (including expressions and functions) is stored with a timestamp.
+📅 Automatic Tracking — Every calculation you perform, including expressions and advanced functions, is automatically recorded with a precise timestamp for easy reference and review.
 
-👁️ View History (hist) — Instantly display your previous calculations in an easy-to-read list.
+👁️ View History (hist) — Instantly display your full list of previous calculations in a clean, well-formatted layout, allowing quick access to past results anytime.
 
 💾 Export History (export) —Save your complete calculation history as a detailed JSON file, including timestamps and results, for documentation, sharing, or later use.
 
