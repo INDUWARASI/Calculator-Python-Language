@@ -6,14 +6,17 @@ import tkinter as tk
 from tkinter import messagebox
 
 # ───────────────────────────────────────────────────────────────
-# SMART ADVANCED CALCULATOR 
+# 🧮 SMART ADVANCED CALCULATOR
 # ───────────────────────────────────────────────────────────────
-# • Preserves original logic and ensures safe calculations
-# • Adds advanced functions: exp, log2, deg ↔ rad conversions
-# • Enhanced expression evaluator with robust validation
-# • Cleaner, user-friendly terminal interface
-# • Auto-saves full history on exit to prevent data loss
-# ─────────────────────────────────────────────────────────
+# • Maintains original logic while ensuring safe and accurate calculations
+# • Includes advanced math functions: exponential (exp), log base 2 (log2),
+#   and degree ↔ radian conversions
+# • Upgraded expression evaluator with thorough input validation
+# • Sleek, user-friendly terminal interface for better usability
+# • Automatically saves complete calculation history on exit to prevent data loss
+# • Designed for both beginners and advanced users seeking efficiency
+# ───────────────────────────────────────────────────────────────
+
 
 # Global variables for calculator memory and history
 calculator_memory = 0
