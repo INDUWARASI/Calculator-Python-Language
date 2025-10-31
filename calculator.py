@@ -5,14 +5,15 @@ from datetime import datetime
 import tkinter as tk
 from tkinter import messagebox
 
-# -------------------------
-# Smart Advanced Calculator
-# - Preserves original logic and safety
-# - Adds: exp, log2, deg, rad
-# - Improved expression evaluator and validation
-# - Cleaner terminal UI
-# - Auto-saves history on exit
-# -------------------------
+# ───────────────────────────────────────────────
+# 🧮 Smart Advanced Calculator
+# ───────────────────────────────────────────────
+# • Preserves original calculation logic and ensures safe operations
+# • Adds advanced math functions: exp, log2, degree ↔ radian conversions
+# • Enhanced expression evaluator with robust input validation
+# • Clean, intuitive terminal user interface for better usability
+# • Automatically saves full history on exit to prevent data loss
+# ───────────────────────────────────────────────
 
 # Global variables for calculator memory and history
 calculator_memory = 0
